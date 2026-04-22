@@ -93,21 +93,27 @@ Nascido em 2006, sou de Nova Andradina (MS) e estou cursando **Análise e Desenv
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/davi-casari/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"/>
-  </a>
-  <a href="https://discord.com/users/512839551807651864" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC87nHRUND7nD8KF0gHJHstw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="50" alt="youtube logo"/>
-  </a>
-  <a href="https://www.instagram.com/asghrk.casari/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"/>
-  </a>
-  <a href="mailto:asghrkcasari@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/davi-casari/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
+</a>
+
+<a href="https://discord.com/users/512839551807651864" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UC87nHRUND7nD8KF0gHJHstw" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50"/>
+</a>
+
+<a href="https://www.instagram.com/asghrk.casari/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50"/>
+</a>
+
+<a href="mailto:asghrkcasari@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50"/>
+</a>
+
 </div>
 
 ###
