@@ -117,8 +117,8 @@ Nascido em 2006, sou de Nova Andradina (MS) e estou cursando **Análise e Desenv
 </div>
 
 ###
-<br>
-<br>
+<br/>
+<br/>
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=120&section=footer"/>
