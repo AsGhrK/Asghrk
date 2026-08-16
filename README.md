@@ -33,8 +33,8 @@ Nascido em 2006, sou de Nova Andradina (MS) e estou cursando **Análise e Desenv
 
 > Contribuí no desenvolvimento — projeto em produção com site, documentação e versionamento estável.
 
-![Version](https://img.shields.io/badge/versão-v1.3.0-657786?style=flat-square)
-![License](https://img.shields.io/badge/licença-MIT-657786?style=flat-square)
+![Version](https://img.shields.io/badge/versão-v1.8.5-657786?style=flat-square)
+![License](https://img.shields.io/badge/licença-GPL-657786?style=flat-square)
 
 ---
 
